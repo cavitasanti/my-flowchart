@@ -1,0 +1,2 @@
+Open Application
+Read and Write "menu" with Arrays of Strings
